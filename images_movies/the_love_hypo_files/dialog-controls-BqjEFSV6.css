@@ -1,0 +1,1 @@
+.lR_VdW_controls{column-gap:calc(var(--modal-margin) * .5);display:flex}.lR_VdW_controls.lR_VdW_-floating{z-index:1;position:absolute;inset-block-start:calc(var(--modal-margin) + var(--viewport-safe-area-inset-top));inset-inline-end:calc(var(--modal-margin) + var(--viewport-safe-area-inset-right))}

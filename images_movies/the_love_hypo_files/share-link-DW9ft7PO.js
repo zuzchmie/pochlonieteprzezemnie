@@ -1,0 +1,1 @@
+import"../../../chunks/P2Xu9kJm.js";import{t as e}from"../../../chunks/C7etpEb4.js";import{n as t,t as n}from"../../../chunks/CF3xNg1G.js";e.then(()=>{document.querySelectorAll(`.js-${t}`).forEach(e=>{new n(e)})});
